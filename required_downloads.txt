@@ -1,0 +1,4 @@
+1. python version 3.8 or less
+2. ffmpeg
+3. dlib_face_recognition_resnet_model_v1.dat
+4. shape_predictor_68_face_landmarks_GTX.dat
